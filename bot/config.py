@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "5443117889:AAGdmwrU3iskvUWo08YBFpIqfNoFmFZKpFk"
+    APP_ID = "6733015"
+    API_HASH = "9b578d686a3909fa3d9bf559fef76124"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1266405048" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/armysquadofficial"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "672707313940-rgs4lqq22gbmd330u1eeoh2t9luimfjn.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
